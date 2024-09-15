@@ -1,0 +1,9 @@
+{
+  "token": "BOT_TOKEN",
+  "clientId": "BOT_CLIENT_ID",
+  "mainGuildId": "ANA_SUNUCU_ID",
+  "secondaryGuildId": "IKINCIL_SUNUCU_ID",
+  "mainRoleId": "ANA_SUNUCUDAKI_ROL_ID",
+  "secondaryRoleId": "IKINCIL_SUNUCUDAKI_ROL_ID",
+  "logChannelId": "LOG_KANALI_ID"
+}
